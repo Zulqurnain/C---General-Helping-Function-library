@@ -22,7 +22,7 @@ Here are some functions already implemented :
 --- it calculates the totlal salary of employ by adding gross salary of given days and percentage of gross profit
 --- (Fixed_salary , Number_of_days ,percent_nuber) // percent_number = 9 , if 9%
 
-*   evenoddchar() // it will get a character as input don't echo it and convert even char to odd and odd char to even e.g p=evenoddchar();
+*   evenoddchar() // it will get a character as input don't echo it and convert even char to odd and odd char to even e.g  p=evenoddchar();
 
 *	tictac() // it is a complete tictac toe game idiot computer + user play but not computer never loss. 
 

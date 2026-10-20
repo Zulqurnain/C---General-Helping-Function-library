@@ -42,3 +42,7 @@ g++ -std=c++17 your_program.cpp -o output
 **Built by [Zulqurnain Haider](https://zulqurnainj.com/) — Senior Full Stack Engineer**
 
 For full portfolio visit: [https://zulqurnainj.com/](https://zulqurnainj.com/)
+
+## Recent changes
+
+- 2026-10-20: Commit history tidied up: every commit is now credited to Zulqurnain.
